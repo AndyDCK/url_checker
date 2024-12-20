@@ -51,35 +51,8 @@ cd url_checker
    [INFO] Le site semble être en ligne.
    ```
 
-## Contribuer
-
-Les contributions sont les bienvenues ! Voici comment procéder :
-
-1. Fork ce dépôt.
-2. Crée une branche pour ta fonctionnalité :
-   ```bash
-   git checkout -b ma-fonctionnalite
-   ```
-3. Fais des changements et commit :
-   ```bash
-   git commit -m "Ajout d'une nouvelle fonctionnalité"
-   ```
-4. Pousse tes changements :
-   ```bash
-   git push origin ma-fonctionnalite
-   ```
-5. Crée une Pull Request sur GitHub.
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
 ---
 
 ### Auteur
 
 - **AndyDCK**
-
----
-
-N'hésite pas à personnaliser ou à enrichir ce fichier selon tes préférences ! 😊
